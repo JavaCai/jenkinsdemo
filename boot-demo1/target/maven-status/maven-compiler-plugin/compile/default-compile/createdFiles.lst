@@ -1,0 +1,6 @@
+com\javaczh\admin\entity\DemoTest.class
+com\javaczh\admin\BootApp.class
+com\javaczh\admin\entity\UserConvert.class
+com\javaczh\admin\entity\UserBO.class
+com\javaczh\admin\entity\UserDO.class
+com\javaczh\admin\controller\IndexController.class
